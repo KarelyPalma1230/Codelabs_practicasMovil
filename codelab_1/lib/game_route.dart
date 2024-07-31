@@ -8,7 +8,6 @@ import 'package:flutter/material.dart';
 // COMPLETE: Import google_mobile_ads.dart
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-import 'quiz_manager.dart';
 
 class GameRoute extends StatefulWidget {
   const GameRoute({Key? key}) : super(key: key);
